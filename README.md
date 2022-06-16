@@ -18,6 +18,6 @@
 </div>
 
 ###
-<img href="https://raw.githubusercontent.com/joaogonzag/joaogonzag/blob/output/snake.svg" alt="Snake animation" />
+ ![Snake animation](https://github.com/giovanaraphaelli/giovanaraphaelli/blob/output/github-contribution-grid-snake.svg)
 
 ###
